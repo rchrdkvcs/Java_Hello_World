@@ -7,6 +7,7 @@ Difficulté : Très facile (~15 minutes)
 GitHUB est une plateforme en ligne utilisée pour stocker le code de son programme.
 GitHUB est organisé en "Repository", c'est à dire en répertoire (contenant lui même des sous répertoires et des fichiers). Chaque Repository sera indépendant les un des autres. Un Repository doit être vu comme un projet unique (1 Repository = 1 Projet). GitHUB est une plateforme très utilisée par les informaticiens.
 
+
 **Procedure à suivre :**  
 1° - Créez vous un compte sur GitHub : https://github.com/  
 Si besoin, une vidéo pour vous aider à créer votre propre compte GitHUB : [Créer un compte GitHUB](https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account)  
